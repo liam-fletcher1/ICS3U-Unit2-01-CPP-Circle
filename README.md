@@ -1,3 +1,3 @@
-# ICS3U-Unit2-02-CPP-Circle
+# ICS3U-Unit2-01-CPP-Circle
 
-[![GitHub's Super Linter](https://github.com/liam-fletcher1/ICS3U-Unit2-02-CPP-Circle/workflows/GitHub's%20Super%20Linter/badge.svg)](https://github.com/liam-fletcher1/ICS3U-Unit2-02-CPP-Circle/actions)
+[![GitHub's Super Linter](https://github.com/liam-fletcher1/ICS3U-Unit2-01-CPP-Circle/workflows/GitHub's%20Super%20Linter/badge.svg)](https://github.com/liam-fletcher1/ICS3U-Unit2-01-CPP-Circle/actions)
